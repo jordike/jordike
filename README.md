@@ -132,8 +132,10 @@
 
 ###
 
+<!--
 <h2 align="left">My activity</h2>
 
 <img src="https://raw.githubusercontent.com/jordike/jordike/output/snake.svg" alt="Snake animation" />
+-->
 
 ###
