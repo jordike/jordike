@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning React and embedded programming</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm interested in low-level and embedded programming. </p>
 
 ###
 
